@@ -1,0 +1,13 @@
+{
+    "name": "ServerlessDays Denver CI",
+    "description": "Octo Organization CI workflow template.",
+    "iconName": "octicon cloud",
+    "categories": [
+        "deployment"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
